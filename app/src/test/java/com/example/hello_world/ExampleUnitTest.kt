@@ -1,4 +1,4 @@
-package com.example.networkconection
+package com.example.hello_world
 
 import org.junit.Test
 

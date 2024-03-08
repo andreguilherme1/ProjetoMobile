@@ -1,11 +1,10 @@
-package com.example.networkconection
+package com.example.hello_world
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
-import com.example.hello_world.R
 import com.example.hello_world.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
