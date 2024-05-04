@@ -1,3 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="hello">Hello, %s</string>
+    <string name="app_name">lista</string>
+    <string name="addPerson">Adicionar Pessoa</string>
+    <string name="name">Nome</string>
+    <string name="phone">Número de Telefone</string>
+    <string name="message_field_required">O campo %s é obrigatório</string>
 </resources>
