@@ -6,4 +6,7 @@
     <string name="name">Nome</string>
     <string name="phone">Número de Telefone</string>
     <string name="message_field_required">O campo %s é obrigatório</string>
+    <string name="age">Idade</string>
+    <string name="hobby">Hobby</string>
+    <string name="sex">Sexo</string>
 </resources>
