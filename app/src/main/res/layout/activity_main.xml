@@ -5,13 +5,15 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.create_add_layout.MainActivity">
+    tools:context="com.example.hello_world.MainActivity">
 
     <androidx.appcompat.widget.AppCompatTextView
         android:id="@+id/txtWelcomeMessage"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:layout_margin="16dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="35dp"
+        android:layout_marginEnd="16dp"
         android:gravity="center"
         android:textSize="32sp"
         app:layout_constraintEnd_toEndOf="parent"
